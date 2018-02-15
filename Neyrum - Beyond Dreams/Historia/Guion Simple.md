@@ -29,3 +29,8 @@
   * Los 3 se ponen rumbo hacia la capital.
 
 * Capitulo 3:
+  * El grupo monta un campamento para pasar la noche.
+  * Durante una conversación entre ellos para conocerse mejor son atacados por varias criaturas.
+  * Una de las criaturas, que parece ser inteligente, les dice que no deberian seguir con sus planes si quieren seguir vivos.
+  * Ante las amenazas Bagoth decide terminar con la vida de la criatura al instante.
+  * Vuelven a mantener una breve conversación sobre lo ocurrido y tratan de pasar la noche.
